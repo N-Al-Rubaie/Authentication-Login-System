@@ -79,7 +79,8 @@ This project provides a complete backend API and frontend interface using the **
 ### Update Details
 <img width="215" alt="Update" src="https://github.com/user-attachments/assets/0801db38-da57-481c-b6c5-9c10654d1dee" />
 
-<img width="532" alt="cloudinary avatar upload" src="https://github.com/user-attachments/assets/be20594e-d001-4dbd-82d9-877ecfbe6fe1" />
+<img width="532" alt="cloudinary avatar upload" src="https://github.com/user-attachments/assets/31437e2d-682c-4666-926c-fa50779ff76c" />
+
 
 ---
 
